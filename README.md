@@ -43,7 +43,7 @@ pip install uv
 
 1. Clone or download this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/marujofln/meta-template-migrator.git
 cd meta-template-migrator
 ```
 
@@ -279,7 +279,7 @@ uv run python whatsapp_template_migrator.py
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/marujofln/meta-template-migrator.git
 cd meta-template-migrator
 ```
 
